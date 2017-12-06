@@ -8,3 +8,4 @@ git clone https://luyenga@gitlab.xmobilevn.com:11236/luyenga/TestWebsite.git
 git -c http.sslVerify=false remote add origin https://luyenga@gitlab.xmobilevn.com:11236/luyenga/TestWebsite.git
 -c http.sslVerify=false
 moojt con ga
+mot con cho
